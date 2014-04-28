@@ -84,6 +84,7 @@ jQuery(document).ready(function(){
 			"images/sample_back1.jpg",
 			"images/sample_back2.jpg",
 			"images/sample_back3.jpg"
+			"images/appleblossom.jpg"
 		], {duration: 5000, fade: 1000});
 	
 	
