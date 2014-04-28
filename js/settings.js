@@ -81,10 +81,13 @@ jQuery(document).ready(function(){
 		//jQuery.backstretch("demo/back.jpg"); // http://farm3.staticflickr.com/2613/3704435355_a3e53ca8d3_b.jpg
 		
 		jQuery.backstretch([
-			"images/sample_back1.jpg",
-			"images/sample_back2.jpg",
-			"images/sample_back3.jpg",
-			"images/appleblossom.jpg"
+			//"images/sample_back1.jpg",
+			//"images/sample_back2.jpg",
+			//"images/sample_back3.jpg",
+			"images/appleblossom.jpg",
+			"images/appletree.jpg",
+			"images/spring.jpg",
+			"images/spring2.jpg"
 		], {duration: 5000, fade: 1000});
 	
 	
