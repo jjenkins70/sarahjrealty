@@ -160,8 +160,7 @@
 		-webkit-border-radius: 3px;
 		-webkit-box-shadow:  0px 1px 7px 0px rgba(00, 00, 00, .7);
 			   	box-shadow:  0px 1px 7px 0px rgba(00, 00, 00, .7);
-		/*background: url(../images/trans.png) repeat;*/
-		background: url(../images/appleblossom.jpg) repeat;
+		background: url(../images/trans.png) repeat;
 	}
 	
 	
@@ -182,8 +181,7 @@
 		overflow: auto;
 		-webkit-box-shadow:  0px 1px 7px 0px rgba(00, 00, 00, .7);
 			   	box-shadow:  0px 1px 7px 0px rgba(00, 00, 00, .7);
-		/* background: url(../images/trans.png) repeat; */
-		background: url(../images/appleblossom.jpg) repeat;
+		 background: url(../images/trans.png) repeat;
 	}
 	
 	#control #side {
@@ -219,8 +217,7 @@
 			padding: 30px;
 			margin-bottom: 20px;
 			overflow: hidden;
-			/*background: url(../images/trans.png) repeat;*/
-            background: url(../images/appleblossom.jpg);
+			background: url(../images/trans.png) repeat;
 		}
 		
 		img,
